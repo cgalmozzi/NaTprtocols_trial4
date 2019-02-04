@@ -272,7 +272,7 @@ text file containing all genes with additional information in tab separated form
 
 # License
 
-- [License](./License)
+- [License](License)
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
