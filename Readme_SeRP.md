@@ -122,7 +122,7 @@ The Python installation should take approximately 1-2 hours to install on a reco
 ```
 
 -	the example reference files contain information on transcripts/sequence/tRNA of yeast’s chromosome 1 only 
--	sample1-4.sam are Ssb1 selective and total translatome samples from Döring et al. 2017 containing only reads mapping to yeast’s chromosome 1. 
+-	sample1-4.sam are Ssb1 selective and total translatome samples from Döring et al. 2017 (4) containing only reads mapping to yeast’s chromosome 1. 
 -   samples sample1_demo.sam and sample2_demo.sam correspond to Total translatome and sample4_demo.sam and sample5_demo.sam Ssb-bound translatome.
 -	set current working directory to: main folder containing samples and scripts.
 
@@ -271,6 +271,8 @@ text file containing all genes with additional information in tab separated form
 (2) Kiniry, Stephen J et al. “Trips-Viz: a transcriptome browser for exploring Ribo-Seq data” Nucleic acids research vol. 47,D1 847-852. doi.org/10.1093/nar/gky842 (2018).
 
 (3)	Van Rossum, G. & de Boer, J. Interactively Testing Remote Servers Using the Python Programming Language, CWI Quarterly, 4, Issue 4, 283–303 (1991).
+
+(4) Doring, K. et al. Profiling Ssb-Nascent Chain Interactions Reveals Principles of Hsp70-Assisted Folding. Cell 170, 298-311 e220, doi:10.1016/j.cell.2017.06.038 (2017).
 
 # License
 
