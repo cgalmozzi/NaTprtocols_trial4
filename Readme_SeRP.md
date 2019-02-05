@@ -122,8 +122,9 @@ The Python installation should take approximately 1-2 hours to install on a reco
 ```
 
 -	the example reference files contain information on transcripts/sequence/tRNA of yeast’s chromosome 1 only 
--	sample1-4.sam are Ssb1 selective and total translatome samples from Döring et al. 2017 containing only reads mapping to yeast’s chromosome 1 
--	set current working directory to: main folder containing samples and scripts
+-	sample1-4.sam are Ssb1 selective and total translatome samples from Döring et al. 2017 containing only reads mapping to yeast’s chromosome 1. 
+-   samples sample1_demo.sam and sample2_demo.sam correspond to Total translatome and sample4_demo.sam and sample5_demo.sam Ssb-bound translatome.
+-	set current working directory to: main folder containing samples and scripts.
 
 
 ## Command lines
