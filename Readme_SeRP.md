@@ -1,4 +1,4 @@
-# Selective Ribosome Profiling: a tool to study interactions of translating ribosomes in yeast	
+# Selective Ribosome Profiling to study interactions of translating ribosomes in yeast	
 
 
 ## Contents
