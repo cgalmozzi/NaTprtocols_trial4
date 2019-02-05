@@ -16,4 +16,4 @@
 16	0.0
 mi	0.0
 total	824410.0
-total without tRNA	824332.0
+total without tRNA	824333.0
