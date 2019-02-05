@@ -129,22 +129,23 @@ The Python installation should take approximately 1-2 hours to install on a reco
 ## Command lines
 
 ```
--	command lines:
-o	python Supplementary_script_A_demo.py sample1_demo.sam sample1
-o	python Supplementary_script_A_demo.py sample2_demo.sam sample2
-o	python Supplementary_script_A_demo.py sample3_demo.sam sample3
-o	python Supplementary_script_A_demo.py sample4_demo.sam sample4
-o	python Supplementary_script_B_demo.py sample1
-o	python Supplementary_script_B_demo.py sample2
-o	python Supplementary_script_B_demo.py sample3
-o	python Supplementary_script_B_demo.py sample4
-o	python Supplementary_script_C_demo.py sample1
-o	python Supplementary_script_C_demo.py sample2
-o	python Supplementary_script_C_demo.py sample3
-o	python Supplementary_script_C_demo.py sample4
-o	python Supplementary_script_D_demo.py sample1 sample3 sample2 sample4 experiment1
-o	python Supplementary_script_E_demo.py sample1 sample3 sample2 sample4 experiment1
-o	python Supplementary_script_F_demo.py sample1 sample3 sample2 sample4 experiment1
+
+	python Supplementary_script_A_demo.py sample1_demo.sam sample1
+	python Supplementary_script_A_demo.py sample2_demo.sam sample2
+	python Supplementary_script_A_demo.py sample3_demo.sam sample3
+	python Supplementary_script_A_demo.py sample4_demo.sam sample4
+	python Supplementary_script_B_demo.py sample1
+	python Supplementary_script_B_demo.py sample2
+	python Supplementary_script_B_demo.py sample3
+	python Supplementary_script_B_demo.py sample4
+	python Supplementary_script_C_demo.py sample1
+	python Supplementary_script_C_demo.py sample2
+	python Supplementary_script_C_demo.py sample3
+	python Supplementary_script_C_demo.py sample4
+	python Supplementary_script_D_demo.py sample1 sample3 sample2 sample4 experiment1
+	python Supplementary_script_E_demo.py sample1 sample3 sample2 sample4 experiment1
+	python Supplementary_script_F_demo.py sample1 sample3 sample2 sample4 experiment1
+	python Supplementary_script_G_demo.py sample1 sample3 sample2 sample4 experiment1
 
 ```
 
