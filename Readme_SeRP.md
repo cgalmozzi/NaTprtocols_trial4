@@ -36,6 +36,8 @@ Supplementary script G (Metagene_Profiles).
 
 # Reference files
 
+- [References_yeast](./References_yeast)
+
 ```
 
 Asite_offset.txt
@@ -48,7 +50,7 @@ yeast_tRNA.pkl
 ```
 
 
-# Build_references
+# Build references
 
 - [Build_references](./Build_references)
 
